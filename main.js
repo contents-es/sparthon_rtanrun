@@ -47,7 +47,7 @@ const startImage = new Image();
 startImage.src = "./assets/images/rtan_start.png";
 // (3) 게임 오버
 const gameoverImage = new Image();
-gameoverImage.src = "./assets/images/rtan_gameover.png";
+gameoverImage.src = "./assets/images/rtan_gameover_b.png";
 // (4) 게임 재시작
 const restartImage = new Image();
 restartImage.src = "./assets/images/rtan_restart.png";
