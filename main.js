@@ -47,7 +47,7 @@ const startImage = new Image();
 startImage.src = "./assets/images/rtan_start.png";
 // (3) 게임 오버
 const gameoverImage = new Image();
-gameoverImage.src = "./assets/images/rtan_gameover_b.png";
+gameoverImage.src = "./assets/images/rtan_gameover.png";
 // (4) 게임 재시작
 const restartImage = new Image();
 restartImage.src = "./assets/images/rtan_restart.png";
@@ -59,7 +59,7 @@ const rtanBImage = new Image();
 rtanBImage.src = "./assets/images/rtan_running_d.png";
 // (7) 게임 오버 르탄이
 const rtanCrashImage = new Image();
-rtanCrashImage.src = "./assets/images/rtan_crash.png";
+rtanCrashImage.src = "./assets/images/rtan_gameover_b.png";
 // (8) 장애물
 const rtan_obstacle = new Image();
 rtan_obstacle.src = "./assets/images/rtan_obstacle.png";
