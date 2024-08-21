@@ -53,10 +53,10 @@ const restartImage = new Image();
 restartImage.src = "./assets/images/rtan_restart.png";
 // (5) 달리는 르탄이 A
 const rtanAImage = new Image();
-rtanAImage.src = "./assets/images/rtan_running_c.png";
+rtanAImage.src = "./assets/images/rtan_running_a.png";
 // (6) 달리는 르탄이 B
 const rtanBImage = new Image();
-rtanBImage.src = "./assets/images/rtan_running_d.png";
+rtanBImage.src = "./assets/images/rtan_running_b.png";
 // (7) 게임 오버 르탄이
 const rtanCrashImage = new Image();
 rtanCrashImage.src = "./assets/images/rtan_gameover_b.png";
